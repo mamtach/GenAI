@@ -1,2 +1,6 @@
 # GenAI
-Work Related to GenAI
+#Multi Layer Perceptron
+
+# Text Processing
+
+#Model implementation
